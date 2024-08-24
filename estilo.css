@@ -1,0 +1,33 @@
+    h1 {
+      text-align: center;
+      color: rgb(255, 136, 0);
+      font-size: 30px;
+    }
+    #P1{
+        color: aliceblue;
+        border-bottom:black
+    }
+    p {
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      margin-top: 13px; /* Espaçamento superior */
+      margin-bottom: 13px; /* Espaçamento inferior */
+      margin-left: 90px; /* Espaçamento à esquerda */
+      margin-right: 90px; /* Espaçamento à direita */
+      text-align: left;
+      color: rgb(255, 255, 255);
+      font-size: 16px;
+    }
+    a {
+      font-size: 14px;
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+    }
+    body {
+  background-color: rgb(131, 67, 116)
+}
+h2{
+  font-size: 27px;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(235, 116, 0);
+  text-align: center;
+}
